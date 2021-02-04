@@ -1,4 +1,4 @@
-module gitlab.com/siteslave/demo-grpc
+module github.com/siteslave/demo-grpc
 
 go 1.15
 
