@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"log"
 	"net"
-
 	"github.com/siteslave/demo-grpc/chat"
 	"google.golang.org/grpc"
 )
