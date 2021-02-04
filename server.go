@@ -5,8 +5,7 @@ import (
 	"log"
 	"net"
 
-	"gitlab.com/siteslave/demo-grpc/chat"
-
+	"github.com/siteslave/demo-grpc/chat"
 	"google.golang.org/grpc"
 )
 
